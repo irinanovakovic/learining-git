@@ -4,7 +4,7 @@ body {
     
 }
 .container {
-    
+
     max-width: 600px;
     margin: auto;
     
@@ -54,4 +54,8 @@ footer {
     min-height: 300px;
     width: 100%;
     margin-top: 30px;
+}
+#footer-title {
+    color:#fff;
+    padding: 20px;
 }
