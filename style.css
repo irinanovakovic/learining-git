@@ -49,3 +49,9 @@ button {
     margin-left: 100px;
     font-size: 40px;
 }
+footer {
+    background: darkblue;
+    min-height: 300px;
+    width: 100%;
+    margin-top: 30px;
+}
