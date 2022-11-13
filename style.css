@@ -43,3 +43,9 @@ button {
     font-size: 18px;
     background-color: rgb(7, 18, 168);
 }
+.my-title {
+    color: blue;
+    padding: 10px;
+    margin-left: 100px;
+    font-size: 40px;
+}
