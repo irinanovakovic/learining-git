@@ -30,3 +30,7 @@ function validationEmail() {
         errorEmail.innerHTML = '';
     }
 }
+
+function validationJMBG() {
+    console.log('pozdrav iz JMBG')
+}

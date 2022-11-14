@@ -43,5 +43,7 @@ let buttonSubmit = document.querySelector('#submit-btn');
 buttonSubmit.addEventListener('click', () => {
     validationUsername()
     validationEmail()
+    validationJMBG() 
+
 });
 
